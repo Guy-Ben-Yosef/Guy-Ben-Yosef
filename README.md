@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Ben-Yosef&layout=compact&theme=gruvbox&card_width=495&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=gbenjos&card_width=400)
+![Codewars](https://github.r2v.ch/codewars?user=Guy-Ben-Yosef&card_width=400)
