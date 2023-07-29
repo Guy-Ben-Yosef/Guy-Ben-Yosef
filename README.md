@@ -1,7 +1,7 @@
-# :bust_in_silhouette: Guy Ben-Yosef
+# :man_mechanic: Guy Ben-Yosef
 :rocket:&nbsp;&nbsp;&nbsp; Aerospace Engineering student at the Technion
 
-:military_helmet:&nbsp;&nbsp;&nbsp; HMDs Tracker System Engineer at Elbit Systems
+:flying_saucer:	&nbsp;&nbsp;&nbsp; HMDs Tracker System Engineer at Elbit Systems
 
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,matlab,java,react)](https://skillicons.dev)
