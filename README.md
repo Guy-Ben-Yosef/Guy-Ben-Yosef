@@ -21,6 +21,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Guy-Ben-Yosef)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theguyben&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Ben-Yosef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=gbenjos)
