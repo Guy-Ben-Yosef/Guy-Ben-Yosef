@@ -13,13 +13,13 @@
 
 :calling:&nbsp;&nbsp;&nbsp; Contact me on
 
-<a href="https://il.linkedin.com/in/guy-ben-yosef" target="_blank">linkedin.com/in/guy-ben-yosef</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](www.linkedin.com/in/guy-ben-yosef)
 
 <a href="gbenjos@gmail.com" target="_blank">gbenjos@gmail.com</a>
 
 #### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Guy-Ben-Yosef)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=guy-ben-yosef&theme=radical&border_radius=7&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Ben-Yosef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
