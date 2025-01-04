@@ -4,7 +4,7 @@
 :flying_saucer:	&nbsp;&nbsp;&nbsp; HMDs Tracker System Engineer at Elbit Systems
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,matlab,java,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab,java,react)](https://skillicons.dev)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,latex,git)](https://skillicons.dev)
